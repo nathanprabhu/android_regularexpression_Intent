@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CS478 Project 1</string>
+    <string name="app_name_wrappable">CS478 P1</string>
+    <string name="welcome">WELCOME - PROJECT 1</string>
+    <string name="projtitle">ACTIVITIES AND INTENT </string>
+    <string name="callbtn">Identify Phone number</string>
+    <string name="webbtn">Android Help</string>
+    <string name="calldesc">Click this button to identify a phone number from text and make a call</string>
+    <string name="webdesc">Click this button to open Android Developer Help</string>
+    <string name="webview_title">webview</string>
+    <string name="title_activity_activity_webhelp">Activity_webhelp</string>
+    <string name="title_activity_webview">Android Developer Help</string>
+    <string name="name">Prabhunathan Gnanasekaran</string>
+    <string name="email">pgnana2@uic.edu</string>
+    <string name="textdesclabel1">Enter String and press \'Confirm\' to extract phone number from text and make a call</string>
+    <string name="textdesclabel2">Valid phone number format \'(xxx) yyy-zzzz\' or \'(xxx)yyy-zzzz\'</string>
+    <string name="cnfstring">Confirm</string>
+</resources>
